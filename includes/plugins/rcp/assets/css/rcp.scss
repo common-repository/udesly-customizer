@@ -1,0 +1,68 @@
+body[udesly-page-name] .rcp_form {
+  label, legend {
+    color: $rcp_form_title_color;
+    font-size: $rcp_form_title_font_size + 0px;
+  }
+
+  input:not([type="submit"]), textarea{
+    color: $rcp_form_input_color;
+    background-color: $rcp_form_input_background_color;
+    border: $rcp_form_input_border_size + 0px solid $rcp_form_input_border_color;
+    padding: $rcp_form_input_padding + 0em;
+    border-radius: $rcp_form_input_border_radius + 0px;
+  }
+
+  input::placeholder,
+  textarea::placeholder,
+  input::-webkit-input-placeholder,
+  textarea::-webkit-input-placeholder {
+    color: $rcp_form_input_placeholder_color;
+  }
+
+  input[type="submit"] {
+    color: $rcp_btn_font_color;
+    font-size: $rcp_btn_font_size + 0em;
+    background-color: $rcp_btn_background_color;
+    border: $rcp_btn_border_size + 0px solid $rcp_btn_border_color;
+    border-radius: $rcp_btn_border_radius + 0px;
+    padding: 1em 2em;
+    &:hover {
+      color: $rcp_btn_font_color_hover;
+      background-color: $rcp_btn_background_color_hover;
+    }
+  }
+}
+
+body[udesly-page-name] .rcp-table{
+  th{
+    font-size: $rcp_products_table_labels_font_size + 0px;
+    color: $rcp_products_table_labels_font_color;
+    background-color: $rcp_header_background_color;
+  }
+
+  td, th{
+    border-color: $rcp_table_border_color;
+    padding: $rcp_table_padding + 0em;
+    border-width: $rcp_product_table_border_size + 0px;
+  }
+
+  td{
+    font-size: $rcp_products_table_texts_font_size + 0px;
+    color: $rcp_products_table_texts_font_color;
+    background-color: $rcp_product_background_color;
+  }
+  
+}
+
+body[udesly-page-name] {
+  .rcp_error {
+    background-color: $rcp_notification_error_background_color;
+    color: $rcp_notification_error_text_color;
+    border: $rcp_notification_border_size + 0px solid $rcp_notification_error_border_color;
+  }
+  .rcp_success {
+    background-color: $rcp_notification_success_background_color;
+    color: $rcp_notification_success_text_color;
+    border: $rcp_notification_border_size + 0px solid $rcp_notification_success_border_color;
+  }
+}

@@ -1,0 +1,139 @@
+body[udesly-page-name] #edd_checkout_wrap {
+  #edd_checkout_cart .edd_cart_header_row th, #edd_final_total_wrap {
+    font-size: $edd_products_table_labels_font_size + 0px;
+    color: $edd_products_table_labels_font_color;
+    background-color: $edd_header_background_color;
+  }
+
+  td, th, #edd_final_total_wrap {
+    border-color: $edd_table_border_color;
+  }
+
+  #edd_checkout_cart td, #edd_checkout_cart td .edd_cart_remove_item_btn, table .edd_cart_total {
+    font-size: $edd_products_table_texts_font_size + 0px;
+    color: $edd_products_table_texts_font_color;
+    background-color: $edd_product_background_color;
+  }
+
+  #edd_checkout_cart td, #edd_checkout_cart th {
+    padding: $edd_table_padding + 0em;
+    border-width: $edd_product_table_border_size + 0px;
+  }
+}
+
+body[udesly-page-name] #edd_user_history, body[udesly-page-name] #edd_purchase_receipt, body[udesly-page-name] #edd_purchase_receipt_products{
+
+  border-top: $edd_product_table_border_size + 0px solid $edd_table_border_color;
+
+  th{
+    background-color: $edd_header_background_color;
+    color: $edd_products_table_labels_font_color;
+    padding: $edd_table_padding + 0em;
+    border-bottom: $edd_product_table_border_size + 0px solid $edd_table_border_color;
+  }
+
+  td{
+    background-color: $edd_product_background_color;
+    border-bottom: $edd_product_table_border_size + 0px solid $edd_table_border_color;
+    color: $edd_products_table_texts_font_color;
+    a{
+      color: $edd_products_table_texts_font_color;
+    }
+  }
+}
+
+body[udesly-page-name] form.edd_form {
+
+  label, legend {
+    color: $edd_form_title_color;
+    font-size: $edd_form_title_font_size + 0px;
+  }
+
+  .edd-description {
+    font-size: $edd_form_labels_font_size + 0px;
+    color: $edd_form_labels_font_color;
+  }
+
+  input, textarea{
+    color: $edd_form_input_color;
+    background-color: $edd_form_input_background_color;
+    border: $edd_form_input_border_size + 0px solid $edd_form_input_border_color;
+    padding: $edd_form_input_padding + 0em;
+    border-radius: $edd_form_input_border_radius + 0px;
+  }
+
+  input::placeholder,
+  textarea::placeholder,
+  input::-webkit-input-placeholder,
+  textarea::-webkit-input-placeholder {
+    color: $edd_form_input_placeholder_color;
+  }
+
+  input[type="submit"] {
+    color: $edd_btn_font_color;
+    font-size: $edd_btn_font_size + 0em;
+    background-color: $edd_btn_background_color;
+    border: $edd_btn_border_size + 0px solid $edd_btn_border_color;
+    border-radius: $edd_btn_border_radius + 0px;
+    padding: 6px 12px;
+    &:hover {
+      color: $edd_btn_font_color_hover;
+      background-color: $edd_btn_background_color_hover;
+    }
+  }
+
+  fieldset{
+    border: 1px solid #eee;
+  }
+}
+
+body[udesly-page-name] #edd_checkout_form_wrap{
+  input, textarea{
+    color: $edd_form_input_color;
+    background-color: $edd_form_input_background_color;
+    border: $edd_form_input_border_size + 0px solid $edd_form_input_border_color;
+    padding: $edd_form_input_padding + 0em;
+    border-radius: $edd_form_input_border_radius + 0px;
+  }
+
+  input[type="submit"] {
+    color: $edd_btn_font_color;
+    font-size: $edd_btn_font_size + 0em;
+    background-color: $edd_btn_background_color;
+    border: $edd_btn_border_size + 0px solid $edd_btn_border_color;
+    border-radius: $edd_btn_border_radius + 0px;
+    padding: 6px 12px;
+    &:hover {
+      color: $edd_btn_font_color_hover;
+      background-color: $edd_btn_background_color_hover;
+    }
+  }
+
+  label, legend {
+    color: $edd_form_title_color;
+    font-size: $edd_form_title_font_size + 0px;
+  }
+}
+
+body[udesly-page-name] {
+    .edd-alert-error {
+      background-color: $edd_notification_error_background_color;
+      color: $edd_notification_error_text_color;
+      border: $edd_notification_border_size + 0px solid $edd_notification_error_border_color;
+    }
+    .edd-alert-success {
+      background-color: $edd_notification_success_background_color;
+      color: $edd_notification_success_text_color;
+      border: $edd_notification_border_size + 0px solid $edd_notification_success_border_color;
+    }
+    .edd-alert-info {
+      background-color: $edd_notification_info_background_color;
+      color: $edd_notification_info_text_color;
+      border: $edd_notification_border_size + 0px solid $edd_notification_info_border_color;
+    }
+    .edd-alert-warn {
+      background-color: $edd_notification_warn_background_color;
+      color: $edd_notification_warn_text_color;
+      border: $edd_notification_border_size + 0px solid $edd_notification_warn_border_color;
+    }
+}

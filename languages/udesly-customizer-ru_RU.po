@@ -1,0 +1,984 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Udesly Customizer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-10 11:16+0200\n"
+"PO-Revision-Date: 2018-10-01 13:08+0200\n"
+"Last-Translator: Umberto\n"
+"Language-Team: Russian (Russia)\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 52451\n"
+"X-Loco-Api-Version: 1.0.20 20180914-1"
+
+#: ../includes/core/class-udesly-customizer.php:192,
+#: ../includes/core/class-udesly-customizer.php:192,
+#: ../includes/view/customizer-settings.php:14 loco:5b6d5802a08ef1690924df61
+msgid "Customizer"
+msgstr "Редактор"
+
+#: ../includes/plugins/class-plugins-manager.php:86
+#: loco:5b6d5802a08ef1690924df62
+msgid "Customizer settings saved!"
+msgstr "Настройки редактора сохранены!"
+
+#: ../includes/plugins/edd/class-edd-tab.php:33,
+#: ../includes/plugins/rcp/class-rcp-tab.php:33,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:34
+#: loco:5b6d5802a08ef1690924df63
+msgid "Buttons Font Size (em)"
+msgstr "Размер шрифта кнопки (em)"
+
+#: ../includes/plugins/edd/class-edd-tab.php:35,
+#: ../includes/plugins/rcp/class-rcp-tab.php:35,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:36
+#: loco:5b6d5802a08ef1690924df64
+msgid "Buttons Font Color"
+msgstr "Цвет шрифта кнопки"
+
+#: ../includes/plugins/edd/class-edd-tab.php:36,
+#: ../includes/plugins/rcp/class-rcp-tab.php:36,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:37
+#: loco:5b6d5802a08ef1690924df65
+msgid "Buttons Font Color Hover"
+msgstr "Цвет шрифта кнопки при навидении"
+
+#: ../includes/plugins/edd/class-edd-tab.php:38,
+#: ../includes/plugins/rcp/class-rcp-tab.php:38,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:39
+#: loco:5b6d5802a08ef1690924df66
+msgid "Buttons Background Color"
+msgstr "Цвет кнопки"
+
+#: ../includes/plugins/edd/class-edd-tab.php:39,
+#: ../includes/plugins/rcp/class-rcp-tab.php:39,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:40
+#: loco:5b6d5802a08ef1690924df67
+msgid "Buttons Background Color Hover"
+msgstr "Цвет кнопки при навидении"
+
+#: ../includes/plugins/edd/class-edd-tab.php:41,
+#: ../includes/plugins/rcp/class-rcp-tab.php:41,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:42
+#: loco:5b6d5802a08ef1690924df68
+msgid "Buttons Border Size (px)"
+msgstr "Толщина обводки кнопки"
+
+#: ../includes/plugins/edd/class-edd-tab.php:43,
+#: ../includes/plugins/rcp/class-rcp-tab.php:43,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:44
+#: loco:5b6d5802a08ef1690924df69
+msgid "Buttons Border Color"
+msgstr "Цвет обводки кнопки"
+
+#: ../includes/plugins/edd/class-edd-tab.php:45,
+#: ../includes/plugins/rcp/class-rcp-tab.php:45,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:46
+#: loco:5b6d5802a08ef1690924df6a
+msgid "Buttons Border Radius"
+msgstr "Радиус скругления углов кнопки"
+
+#: ../includes/plugins/edd/class-edd-tab.php:51,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:242,
+#: ../includes/plugins/rcp/class-rcp-tab.php:51,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:242,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:52,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:242
+#: loco:5b6d5802a08ef1690924df6b
+msgid "Table Padding (em)"
+msgstr "Внутренний отступ в таблице"
+
+#: ../includes/plugins/edd/class-edd-tab.php:53,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:316,
+#: ../includes/plugins/rcp/class-rcp-tab.php:53,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:316,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:54,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:337
+#: loco:5b6d5802a08ef1690924df6c
+msgid "Header Background Color"
+msgstr "Фоновый цвет заголовка"
+
+#: ../includes/plugins/edd/class-edd-tab.php:54,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:332,
+#: ../includes/plugins/rcp/class-rcp-tab.php:54,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:332,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:55,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:353
+#: loco:5b6d5802a08ef1690924df6d
+msgid "Product Background Color"
+msgstr "Фоновый цвет"
+
+#: ../includes/plugins/edd/class-edd-tab.php:56,
+#: ../includes/plugins/rcp/class-rcp-tab.php:56,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:57
+#: loco:5b6d5802a08ef1690924df6e
+msgid "Products Table Border Size (px)"
+msgstr "Толщина обводки таблицы (px)"
+
+#: ../includes/plugins/edd/class-edd-tab.php:57,
+#: ../includes/plugins/rcp/class-rcp-tab.php:57,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:58
+#: loco:5b6d5802a08ef1690924df6f
+msgid "Products Table Border Color"
+msgstr "Цвет обводки таблицы"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:60
+#: loco:5b6d5802a08ef1690924df70
+msgid "Products Table Rounded Corners"
+msgstr "Скругление углов таблицы"
+
+#: ../includes/plugins/edd/class-edd-tab.php:61,
+#: ../includes/plugins/rcp/class-rcp-tab.php:61,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:64
+#: loco:5b6d5802a08ef1690924df71
+msgid "Products Table Labels Font Size (em)"
+msgstr "Размер шрифта ярлыка таблицы (em)"
+
+#: ../includes/plugins/edd/class-edd-tab.php:62,
+#: ../includes/plugins/rcp/class-rcp-tab.php:62,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:65
+#: loco:5b6d5802a08ef1690924df72
+msgid "Products Table Labels Font Color"
+msgstr "Цвет шрифта ярлыка таблицы"
+
+#: ../includes/plugins/edd/class-edd-tab.php:65,
+#: ../includes/plugins/rcp/class-rcp-tab.php:65,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:68
+#: loco:5b6d5802a08ef1690924df73
+msgid "Products Table Texts Font Size (em)"
+msgstr "Размер шрифта в таблице (em)"
+
+#: ../includes/plugins/edd/class-edd-tab.php:66,
+#: ../includes/plugins/rcp/class-rcp-tab.php:66,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:69
+#: loco:5b6d5802a08ef1690924df74
+msgid "Products Table Texts Font Color"
+msgstr "Цвет шрифта в таблице"
+
+#: ../includes/plugins/edd/class-edd-tab.php:70,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:423,
+#: ../includes/plugins/rcp/class-rcp-tab.php:70,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:423,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:73,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:444
+#: loco:5b6d5802a08ef1690924df75
+msgid "Form Input Background Color"
+msgstr "Цвет инпута формы"
+
+#: ../includes/plugins/edd/class-edd-tab.php:71,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:391,
+#: ../includes/plugins/rcp/class-rcp-tab.php:71,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:391,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:74,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:412
+#: loco:5b6d5802a08ef1690924df76
+msgid "Form Input Color"
+msgstr "Цвет шрифта инпута формы"
+
+#: ../includes/plugins/edd/class-edd-tab.php:72,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:407,
+#: ../includes/plugins/rcp/class-rcp-tab.php:72,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:407,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:75,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:428
+#: loco:5b6d5802a08ef1690924df77
+msgid "Form Input Placeholder Color"
+msgstr "Цвет поля ввода формы"
+
+#: ../includes/plugins/edd/class-edd-tab.php:74,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:439,
+#: ../includes/plugins/rcp/class-rcp-tab.php:74,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:439,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:77,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:460
+#: loco:5b6d5802a08ef1690924df78
+msgid "Form Input Border Color"
+msgstr "Цвет обводки инпута формы"
+
+#: ../includes/plugins/edd/class-edd-tab.php:75,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:476,
+#: ../includes/plugins/rcp/class-rcp-tab.php:75,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:476,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:78,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:497
+#: loco:5b6d5802a08ef1690924df79
+msgid "Form Input Border Size"
+msgstr "Толщина обводки инпута формы"
+
+#: ../includes/plugins/edd/class-edd-tab.php:77,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:455,
+#: ../includes/plugins/rcp/class-rcp-tab.php:77,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:455,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:80,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:476
+#: loco:5b6d5802a08ef1690924df7a
+msgid "Form Input Padding (em)"
+msgstr "Внутренний отступ инпута в форме (em)"
+
+#: ../includes/plugins/edd/class-edd-tab.php:78,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:497,
+#: ../includes/plugins/rcp/class-rcp-tab.php:78,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:497,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:81,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:518
+#: loco:5b6d5802a08ef1690924df7b
+msgid "Form Input Border Radius"
+msgstr "Радиус скругления углов инпута в форме"
+
+#: ../includes/plugins/edd/class-edd-tab.php:82,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:85
+#: loco:5b6d5802a08ef1690924df7c
+msgid "Form Labels Font Size (px)"
+msgstr "Размер шрифта ярлыка формы (px)"
+
+#: ../includes/plugins/edd/class-edd-tab.php:83,
+#: ../includes/plugins/rcp/class-rcp-tab.php:82,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:86
+#: loco:5b6d5802a08ef1690924df7d
+msgid "Form Title Font Size (px)"
+msgstr "Размер шрифта заголовка формы (px)"
+
+#: ../includes/plugins/edd/class-edd-tab.php:85,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:88
+#: loco:5b6d5802a08ef1690924df7e
+msgid "Form Labels Font Color"
+msgstr "Цвет шрифта ярлыка формы"
+
+#: ../includes/plugins/edd/class-edd-tab.php:86,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:375,
+#: ../includes/plugins/rcp/class-rcp-tab.php:83,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:375,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:89,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:396
+#: loco:5b6d5802a08ef1690924df7f
+msgid "Form Title Color"
+msgstr "Цвет заголовка в форме"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:104,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:902
+#: loco:5b6d5802a08ef1690924df80
+msgid "Product Button Font Color"
+msgstr "Цвет шрифта кнопки"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:105,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:886
+#: loco:5b6d5802a08ef1690924df81
+msgid "Product Button Color"
+msgstr "Цвет кнопки"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:107,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:918
+#: loco:5b6d5802a08ef1690924df82
+msgid "Product Button Color Hover"
+msgstr "Цвет кнопки при навидении"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:108,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:950
+#: loco:5b6d5802a08ef1690924df83
+msgid "Product Input Background Color"
+msgstr "Цвет инпута"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:110,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:966
+#: loco:5b6d5802a08ef1690924df84
+msgid "Product Input Color"
+msgstr "Цвет шрифта инпута"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:111,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:934
+#: loco:5b6d5802a08ef1690924df85
+msgid "Product Label Color"
+msgstr "Цвет ярлыка"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:113,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:702
+#: loco:5b6d5802a08ef1690924df86
+msgid "Product Input Padding (px)"
+msgstr "Внутренний отступ инпута (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:114,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:723
+#: loco:5b6d5802a08ef1690924df87
+msgid "Product Label Input Font Size (px)"
+msgstr "Размер шрифта инпута (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:125,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:765
+#: loco:5b6d5802a08ef1690924df88
+msgid "Product Button Border Radius"
+msgstr "Радиус скругления углов кнопки"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:126,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:744
+#: loco:5b6d5802a08ef1690924df89
+msgid "Product Input Border Radius"
+msgstr "Радиус скругления углов инпута"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:130,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:828
+#: loco:5b6d5802a08ef1690924df8a
+msgid "Products Tab Table Border Size (px)"
+msgstr "Толщина обводки вкладки (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:131,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:849
+#: loco:5b6d5802a08ef1690924df8b
+msgid "Products Tab Table Padding (px)"
+msgstr "Внутренний отступ вкладки (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:133,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:870
+#: loco:5b6d5802a08ef1690924df8c
+msgid "Product Tab Table Border Color"
+msgstr "Цвет обводки таба"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:134
+#: loco:5b6d5802a08ef1690924df8d
+msgid "Product Stars Color"
+msgstr "Цвет звездочек в товаре"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:183
+#: loco:5b6d5802a08ef1690924df8e
+msgid "WooCommerce"
+msgstr "Woocommerce"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:25
+#: loco:5b6d5802a08ef1690924df8f
+msgid "Udesly WooCommerce"
+msgstr "Udesly Woocommerce"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:30
+#: loco:5b6d5802a08ef1690924df90
+msgid "Udesly Woocommerce Buttons"
+msgstr "Кнопки Udesly Woocommerce"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:47,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:47,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:47
+#: loco:5b6d5802a08ef1690924df91
+msgid "Button Font Size (em)"
+msgstr "Размер шрифта кнопки (em)"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:68,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:68,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:68
+#: loco:5b6d5802a08ef1690924df92
+msgid "Button Font Color"
+msgstr "Цвет шрифта кнопки"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:84,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:84,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:84
+#: loco:5b6d5802a08ef1690924df93
+msgid "Button Font Color Hover"
+msgstr "Цвет шрифта кнопки при навидении"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:100,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:100,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:100
+#: loco:5b6d5802a08ef1690924df94
+msgid "Button Background Color"
+msgstr "Цвет кнопки"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:116,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:116,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:116
+#: loco:5b6d5802a08ef1690924df95
+msgid "Button Background Color Hover"
+msgstr "Цвет кнопки при навидении"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:132,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:132,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:132
+#: loco:5b6d5802a08ef1690924df96
+msgid "Button Border Size"
+msgstr "Размер обводки кнопки"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:153,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:153,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:153
+#: loco:5b6d5802a08ef1690924df97
+msgid "Button Border Color"
+msgstr "Цвет обводки кнопки"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:169,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:169,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:169
+#: loco:5b6d5802a08ef1690924df98
+msgid "Button Border Radius"
+msgstr "Радиус скругления углов в кнопке"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:184
+#: loco:5b6d5802a08ef1690924df99
+msgid "Udesly Woocommerce Table"
+msgstr "Таблица Woocommerce Table"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:200,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:518,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:200,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:200,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:539
+#: loco:5b6d5802a08ef1690924df9a
+msgid "Labels Font Size"
+msgstr "Размер шрифта в ярлыках"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:221,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:221,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:221
+#: loco:5b6d5802a08ef1690924df9b
+msgid "Texts Font Size"
+msgstr "Размер шрифта"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:263,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:263,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:263
+#: loco:5b6d5802a08ef1690924df9c
+msgid "Table Border Size (px)"
+msgstr "Толщина обводки таблицы (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:284
+#: loco:5b6d5802a08ef1690924df9d
+msgid "Table Border Radius"
+msgstr "Радиус скругления углов в таблице"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:284,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:560,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:284,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:305,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:581
+#: loco:5b6d5802a08ef1690924df9e
+msgid "Labels Font Color"
+msgstr "Цвет ярлыка"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:300,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:300,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:321
+#: loco:5b6d5802a08ef1690924df9f
+msgid "Texts Font Color"
+msgstr "Цвет шрифта"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:348,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:348,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:369
+#: loco:5b6d5802a08ef1690924dfa0
+msgid "Table Border Color"
+msgstr "Цвет обводки в таблице"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:380
+#: loco:5b6d5802a08ef1690924dfa1
+msgid "Udesly Woocommerce Form"
+msgstr "Форма Udesly Woocommerce"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:539,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:518,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:560
+#: loco:5b6d5802a08ef1690924dfa2
+msgid "Labels Title Size"
+msgstr "Размер заголовка"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:686
+#: loco:5b6d5802a08ef1690924dfa3
+msgid "Udesly Woocommerce Product"
+msgstr "Товар Udesly Woocommerce"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:982
+#: loco:5b6d5802a08ef1690924dfa4
+msgid "Product Reviews Stars Color"
+msgstr "Цвет звездочек в отзывах о товаре"
+
+#: ../includes/ui/class-wp-list-table.php:154 loco:5b6d5802a08ef1690924dfa5
+msgid "List View"
+msgstr "Просмотр списка"
+
+#: ../includes/ui/class-wp-list-table.php:155 loco:5b6d5802a08ef1690924dfa6
+msgid "Excerpt View"
+msgstr "Просмотр фрагмента"
+
+#: ../includes/ui/class-wp-list-table.php:315 loco:5b6d5802a08ef1690924dfa7
+msgid "No items found."
+msgstr "Ничего не найдено."
+
+#: ../includes/ui/class-wp-list-table.php:437 loco:5b6d5802a08ef1690924dfa8
+msgid "Select bulk action"
+msgstr "Множественный выбор"
+
+#: ../includes/ui/class-wp-list-table.php:439 loco:5b6d5802a08ef1690924dfa9
+msgid "Bulk Actions"
+msgstr "Множественный выбор"
+
+#: ../includes/ui/class-wp-list-table.php:449 loco:5b6d5802a08ef1690924dfaa
+msgid "Apply"
+msgstr "Применить"
+
+#: ../includes/ui/class-wp-list-table.php:497,
+#: ../includes/ui/class-wp-list-table.php:1275 loco:5b6d5802a08ef1690924dfab
+msgid "Show more details"
+msgstr "Подробнее"
+
+#: ../includes/ui/class-wp-list-table.php:559 loco:5b6d5802a08ef1690924dfac
+msgid "Filter by date"
+msgstr "Фильтр по дате"
+
+#: ../includes/ui/class-wp-list-table.php:561 loco:5b6d5802a08ef1690924dfad
+msgid "All dates"
+msgstr "Все даты"
+
+#. translators: 1: month name, 2: 4-digit year
+#: ../includes/ui/class-wp-list-table.php:574 loco:5b6d5802a08ef1690924dfae
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: ../includes/ui/class-wp-list-table.php:624 loco:5b6d5802a08ef1690924dfaf
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s комментарий"
+msgstr[1] "%s комментарии"
+msgstr[2] "%s-комментарии"
+
+#: ../includes/ui/class-wp-list-table.php:625 loco:5b6d5802a08ef1690924dfb1
+#, php-format
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] "%s одобренный комментарий"
+msgstr[1] "%s одобренные комментарии"
+msgstr[2] "%s-утвержденные-комментарии"
+
+#: ../includes/ui/class-wp-list-table.php:626 loco:5b6d5802a08ef1690924dfb3
+#, php-format
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] "%s ожидающий комментарий"
+msgstr[1] "%s ожидающие комментарии"
+msgstr[2] "%s-ожидающие-комментарии"
+
+#: ../includes/ui/class-wp-list-table.php:631,
+#: ../includes/ui/class-wp-list-table.php:643,
+#: ../includes/ui/class-wp-list-table.php:656 loco:5b6d5802a08ef1690924dfb5
+msgid "No comments"
+msgstr "Комментариев нет"
+
+#: ../includes/ui/class-wp-list-table.php:643 loco:5b6d5802a08ef1690924dfb6
+msgid "No approved comments"
+msgstr "Нет одобренных комментариев"
+
+#: ../includes/ui/class-wp-list-table.php:656 loco:5b6d5802a08ef1690924dfb7
+msgid "No pending comments"
+msgstr "Нет ожидающих комментариев"
+
+#: ../includes/ui/class-wp-list-table.php:730,
+#: ../includes/ui/class-wp-list-table.php:1299 loco:5b6d5802a08ef1690924dfb8
+#, php-format
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "Элемент"
+msgstr[1] "Элементы"
+msgstr[2] "%s-элементы"
+
+#: ../includes/ui/class-wp-list-table.php:766 loco:5b6d5802a08ef1690924dfba
+msgid "First page"
+msgstr "Первая страница"
+
+#: ../includes/ui/class-wp-list-table.php:776 loco:5b6d5802a08ef1690924dfbb
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: ../includes/ui/class-wp-list-table.php:783,
+#: ../includes/ui/class-wp-list-table.php:786 loco:5b6d5802a08ef1690924dfbc
+msgid "Current Page"
+msgstr "Текущая страница"
+
+#: ../includes/ui/class-wp-list-table.php:792 loco:5b6d5802a08ef1690924dfbd
+#, php-format
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s из %2$s"
+
+#: ../includes/ui/class-wp-list-table.php:799 loco:5b6d5802a08ef1690924dfbe
+msgid "Next page"
+msgstr "Следущая страница"
+
+#: ../includes/ui/class-wp-list-table.php:809 loco:5b6d5802a08ef1690924dfbf
+msgid "Last page"
+msgstr "Последняя страница"
+
+#: ../includes/ui/class-wp-list-table.php:1029 loco:5b6d5802a08ef1690924dfc0
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: ../includes/utils/class-utils.php:87 loco:5b6d5802a08ef1690924dfc1
+msgid ""
+"Udesly Customizer needs the <a href=\"https://wordpress.org/plugins/udy-wf-"
+"to-wp/\" target=\"_blank\">Udesly plugin</a> to work, please install and "
+"activate it."
+msgstr ""
+"Для работы Редактора Udesly необходимо <a href=\"https://wordpress."
+"org/plugins/udy-wf-to-wp/\" target=\"_blank\"> Плагин Udesly </a>, "
+"пожалуйста, установите его и активируйте."
+
+#: ../includes/utils/class-utils.php:90 loco:5b6d5802a08ef1690924dfc2
+msgid ""
+"Udesly Customizer needs the <a href=\"https://wordpress."
+"org/plugins/woocommerce/\" target=\"_blank\">Woocommerce plugin</a> to work, "
+"please install and activate it."
+msgstr ""
+"Для корректной работы Редактора Udesly необходим <a href=\"https://wordpress."
+"org/plugins/woocommerce/\" target=\"_blank\"> плагин Woocommerce </a>, "
+"пожалуйста, установите его и активируйте."
+
+#: ../includes/view/customizer-settings.php:32 loco:5b6d5802a08ef1690924dfc3
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:138,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1113
+#: loco:5b6e92b272c2c926437fc062
+msgid "Price Filter Slider Background Color"
+msgstr "Фоновый цвет слайдера фильтр по цене"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:139,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1129
+#: loco:5b6e92b272c2c926437fc063
+msgid "Price Filter Range Slider Background Color"
+msgstr "Цвет полоски слайдера фильтр по цене"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:140,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1145
+#: loco:5b6e92b272c2c926437fc064
+msgid "Price Filter Slider Handle Color"
+msgstr "Цвет ползунка слайдера фильтр по цене"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:141
+#: loco:5b6e92b272c2c926437fc065
+msgid "Price Range Color"
+msgstr "Цвет диапазона цен"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:145,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1187
+#: loco:5b6e92b272c2c926437fc066
+msgid "General Font"
+msgstr "Общий шрифт"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:145,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1188
+#: loco:5b6e92b272c2c926437fc067
+msgid "Font used in the webflow missing elements like table, etc."
+msgstr ""
+"Шрифт, используемый в недостающем элементе Webflow, например таблица и т. д."
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1097
+#: loco:5b6e92b272c2c926437fc068
+msgid "Udesly Woocommerce Sidebar"
+msgstr "Сайдбар Udesly Woocommerce"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1161
+#: loco:5b6e92b272c2c926437fc069
+msgid "Price Filter Range Color"
+msgstr "Цвет фильтра цен"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1172
+#: loco:5b6e92b272c2c926437fc06a
+msgid "Udesly Woocommerce Font"
+msgstr "Шрифт Udesly Woocommerce"
+
+#: ../includes/plugins/edd/class-edd-tab.php:101,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:703,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:150,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1212
+#: loco:5b892f5272c2c904f8313792
+msgid "Info Background Color"
+msgstr "Фоновый цвет блока информации"
+
+#: ../includes/plugins/edd/class-edd-tab.php:102,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:719,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:151,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1228
+#: loco:5b892f5272c2c904f8313793
+msgid "Info Text Color"
+msgstr "Цвет шрифта блока информации"
+
+#: ../includes/plugins/edd/class-edd-tab.php:103,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:735,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:153,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1244
+#: loco:5b892f5272c2c904f8313794
+msgid "Info Border Color"
+msgstr "Цвет обводки блока информации"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:154
+#: loco:5b892f5272c2c904f8313795
+msgid "Info Border Size (px)"
+msgstr "Ширина обводки блока информации (px)"
+
+#: ../includes/plugins/edd/class-edd-tab.php:91,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:607,
+#: ../includes/plugins/rcp/class-rcp-tab.php:88,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:570,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:159,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1281
+#: loco:5b892f5272c2c904f8313796
+msgid "Error Background Color"
+msgstr "Фоновый цвет блока ошибка"
+
+#: ../includes/plugins/edd/class-edd-tab.php:92,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:623,
+#: ../includes/plugins/rcp/class-rcp-tab.php:89,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:586,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:160,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1297
+#: loco:5b892f5272c2c904f8313797
+msgid "Error Text Color"
+msgstr "Цвет шрифта блока ошибка"
+
+#: ../includes/plugins/edd/class-edd-tab.php:93,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:639,
+#: ../includes/plugins/rcp/class-rcp-tab.php:90,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:602,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:162,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1313
+#: loco:5b892f5272c2c904f8313798
+msgid "Error Border Color"
+msgstr "Цвет обводки блока ошибка"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:163
+#: loco:5b892f5272c2c904f8313799
+msgid "Error Border Size (px)"
+msgstr "Ширина обводки блока ошибка (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:168,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1350
+#: loco:5b892f5272c2c904f831379a
+msgid "Message Background Color"
+msgstr "Фоновый цвет сообщения"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:169,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1366
+#: loco:5b892f5272c2c904f831379b
+msgid "Message Text Color"
+msgstr "Цвет шрифта сообщения"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:171,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1382
+#: loco:5b892f5272c2c904f831379c
+msgid "Message Border Color"
+msgstr "Цвет обводки сообщения"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:172
+#: loco:5b892f5272c2c904f831379d
+msgid "Message Border Size (px)"
+msgstr "Ширина обводки сообщения (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1196
+#: loco:5b892f5272c2c904f831379e
+msgid "Udesly Woocommerce Notifications"
+msgstr "Уведомления Udesly Woocommerce"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1260
+#: loco:5b892f5272c2c904f831379f
+msgid "Info Border Size"
+msgstr "Ширина обводки блока информации"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:586,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:549,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1329
+#: loco:5b892f5272c2c904f83137a0
+msgid "Error Border Size"
+msgstr "Ширина обводки блока ошибка"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1398
+#: loco:5b892f5272c2c904f83137a1
+msgid "Message Border Size"
+msgstr "Ширина обводки сообщения"
+
+#: ../includes/view/customizer-settings.php:21 loco:5b99356472c2c919483b5972
+msgid ""
+"No compatible plugins found, you can use the customizer with the following "
+"plugins:"
+msgstr ""
+"Совместимых плагинов не найдено, вы можете использовать Customizer со "
+"следующими плагинами:"
+
+#: ../includes/plugins/edd/class-edd-tab.php:96,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:655,
+#: ../includes/plugins/rcp/class-rcp-tab.php:93,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:618
+#: loco:5b99356472c2c919483b5973
+msgid "Success Background Color"
+msgstr "Фоновый цвет уведомления об успешной отправке"
+
+#: ../includes/plugins/edd/class-edd-tab.php:97,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:671,
+#: ../includes/plugins/rcp/class-rcp-tab.php:94,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:634
+#: loco:5b99356472c2c919483b5974
+msgid "Success Text Color"
+msgstr "Цвет шрифта уведомления об успешной отправке"
+
+#: ../includes/plugins/edd/class-edd-tab.php:98,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:687,
+#: ../includes/plugins/rcp/class-rcp-tab.php:95,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:650
+#: loco:5b99356472c2c919483b5975
+msgid "Success Border Color"
+msgstr "Цвет обводки уведомления об успешной отправке"
+
+#: ../includes/plugins/edd/class-edd-tab.php:106,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:751
+#: loco:5b99356472c2c919483b5976
+msgid "Warning Background Color"
+msgstr "Цвет фона предупреждения"
+
+#: ../includes/plugins/edd/class-edd-tab.php:107,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:767
+#: loco:5b99356472c2c919483b5977
+msgid "Warning Text Color"
+msgstr "Цвет шрифта предупреждения"
+
+#: ../includes/plugins/edd/class-edd-tab.php:108,
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:783
+#: loco:5b99356472c2c919483b5978
+msgid "Warning Border Color"
+msgstr "Цвет обводки предупреждения"
+
+#: ../includes/plugins/edd/class-edd-tab.php:109,
+#: ../includes/plugins/rcp/class-rcp-tab.php:96 loco:5b99356472c2c919483b5979
+msgid "Border Size (px)"
+msgstr "Размер обводки (px)"
+
+#: ../includes/plugins/edd/class-edd-tab.php:118 loco:5b99356472c2c919483b597a
+msgid "Easy Digital Downloads"
+msgstr "Простые цифровые загрузки"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:25
+#: loco:5b99356472c2c919483b597b
+msgid "Udesly Easy Digital Downloads"
+msgstr "Простые цифровые загрузки Udesly"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:30,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:30
+#: loco:5b99356472c2c919483b597c
+msgid "Udesly EDD Buttons"
+msgstr "Udesly Кнопка Простые цифровые загрузки"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:184,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:184
+#: loco:5b99356472c2c919483b597d
+msgid "Udesly EDD Table"
+msgstr "Udesly Таблица Простые цифровые загрузки"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:359,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:359
+#: loco:5b99356472c2c919483b597e
+msgid "Udesly EDD Form"
+msgstr "Udesly Форма Простые цифровые загрузки"
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:570,
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:533
+#: loco:5b99356472c2c919483b597f
+msgid "Udesly EDD Notifications"
+msgstr "Udesly Уведомления Постые цифровые загрузки"
+
+#: ../includes/plugins/rcp/class-rcp-tab.php:105 loco:5b99356472c2c919483b5980
+msgid "Restrict Content Pro"
+msgstr "Ограниченный контент Pro"
+
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:25
+#: loco:5b99356472c2c919483b5981
+msgid "Udesly Restrict Content Pro"
+msgstr "Udesly Ограниченный контент Pro"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:92,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:597
+#: loco:5b9a7bac7ec8ae6fb4443584
+msgid "Select2 height (px)"
+msgstr "Выберите высоту (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:93,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:618
+#: loco:5b9a7bac7ec8ae6fb4443585
+msgid "Select2 padding (px)"
+msgstr "Выберите внутренний отступ (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:96,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:639
+#: loco:5b9a7bac7ec8ae6fb4443586
+msgid "Checkout Payment Background Color"
+msgstr "Фоновый цвет Оформить Заказ"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:97,
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:655
+#: loco:5b9a7bac7ec8ae6fb4443587
+msgid "Checkout Payment Text Color"
+msgstr "Цвет текста Оформить Заказ"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:100
+#: loco:5b9a7bac7ec8ae6fb4443588
+msgid "Cupoun Code Input Width (px)"
+msgstr "Ширина инпута кода купона (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:116,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:120,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:121,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:122,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:123
+#: loco:5b9a7bac7ec8ae6fb4443589
+msgid "Product Button Padding (px)"
+msgstr "Внутренный отступ кнопки продукта (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:117,
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:119
+#: loco:5b9a7bac7ec8ae6fb444358a
+msgid "Product Button Margin (px)"
+msgstr "Отступ кнопки продукта (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:671
+#: loco:5b9a7bac7ec8ae6fb444358b
+msgid "Coupon Code Width (px)"
+msgstr "Ширина кода купона (px)"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:786
+#: loco:5b9a7bac7ec8ae6fb444358c
+msgid "Product Button Padding"
+msgstr "Внутренный отступ кнопки продукта"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:807
+#: loco:5b9a7bac7ec8ae6fb444358d
+msgid "Product Button Margin"
+msgstr "Отступ кнопки продукта"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:100
+#: loco:5b9a7c9a7ec8ae6f9f7589b4
+msgid "Coupon Code Input Width (px)"
+msgstr "Ширина инпута (px) для кода купона"
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:998
+#: loco:5bb1f7fe72c2c918cf36ab82
+msgid "Products Variations Select Field Height (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1019
+#: loco:5bb1f7fe72c2c918cf36ab83
+msgid "Products Variations Reset Button Left Margin (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1040
+#: loco:5bb1f7fe72c2c918cf36ab84
+msgid "Products Variations Labels Right Margin (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1061
+#: loco:5bb1f7fe72c2c918cf36ab85
+msgid "Products Variations Add To Cart Button Margin Top (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1082
+#: loco:5bb1f7fe72c2c918cf36ab86
+msgid "Products Variations Add To Cart Button Margin Left (px)"
+msgstr ""

@@ -1,0 +1,624 @@
+# Copyright (C) 2018 udesly-customizer
+# This file is distributed under the same license as the udesly-customizer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: udesly-customizer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/core/class-udesly-customizer.php:192, ../includes/core/class-udesly-customizer.php:192, ../includes/view/customizer-settings.php:14
+msgid "Customizer"
+msgstr ""
+
+#: ../includes/plugins/class-plugins-manager.php:86
+msgid "Customizer settings saved!"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:154
+msgid "List View"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:155
+msgid "Excerpt View"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:315
+msgid "No items found."
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:437
+msgid "Select bulk action"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:439
+msgid "Bulk Actions"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:449
+msgid "Apply"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:497, ../includes/ui/class-wp-list-table.php:1275
+msgid "Show more details"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:559
+msgid "Filter by date"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:561
+msgid "All dates"
+msgstr ""
+
+#. translators: 1: month name, 2: 4-digit year
+#: ../includes/ui/class-wp-list-table.php:574
+msgid "%1$s %2$d"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:624
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/ui/class-wp-list-table.php:625
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/ui/class-wp-list-table.php:626
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/ui/class-wp-list-table.php:631, ../includes/ui/class-wp-list-table.php:643, ../includes/ui/class-wp-list-table.php:656
+msgid "No comments"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:643
+msgid "No approved comments"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:656
+msgid "No pending comments"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:730, ../includes/ui/class-wp-list-table.php:1299
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/ui/class-wp-list-table.php:766
+msgid "First page"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:776
+msgid "Previous page"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:783, ../includes/ui/class-wp-list-table.php:786
+msgid "Current Page"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:792
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:799
+msgid "Next page"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:809
+msgid "Last page"
+msgstr ""
+
+#: ../includes/ui/class-wp-list-table.php:1029
+msgid "Select All"
+msgstr ""
+
+#: ../includes/utils/class-utils.php:87
+msgid "Udesly Customizer needs the <a href=\"https://wordpress.org/plugins/udy-wf-to-wp/\" target=\"_blank\">Udesly plugin</a> to work, please install and activate it."
+msgstr ""
+
+#: ../includes/view/customizer-settings.php:21
+msgid "No compatible plugins found, you can use the customizer with the following plugins:"
+msgstr ""
+
+#: ../includes/view/customizer-settings.php:32
+msgid "Save"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:33, ../includes/plugins/rcp/class-rcp-tab.php:33, ../includes/plugins/woocommerce/class-woocommerce-tab.php:34
+msgid "Buttons Font Size (em)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:35, ../includes/plugins/rcp/class-rcp-tab.php:35, ../includes/plugins/woocommerce/class-woocommerce-tab.php:36
+msgid "Buttons Font Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:36, ../includes/plugins/rcp/class-rcp-tab.php:36, ../includes/plugins/woocommerce/class-woocommerce-tab.php:37
+msgid "Buttons Font Color Hover"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:38, ../includes/plugins/rcp/class-rcp-tab.php:38, ../includes/plugins/woocommerce/class-woocommerce-tab.php:39
+msgid "Buttons Background Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:39, ../includes/plugins/rcp/class-rcp-tab.php:39, ../includes/plugins/woocommerce/class-woocommerce-tab.php:40
+msgid "Buttons Background Color Hover"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:41, ../includes/plugins/rcp/class-rcp-tab.php:41, ../includes/plugins/woocommerce/class-woocommerce-tab.php:42
+msgid "Buttons Border Size (px)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:43, ../includes/plugins/rcp/class-rcp-tab.php:43, ../includes/plugins/woocommerce/class-woocommerce-tab.php:44
+msgid "Buttons Border Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:45, ../includes/plugins/rcp/class-rcp-tab.php:45, ../includes/plugins/woocommerce/class-woocommerce-tab.php:46
+msgid "Buttons Border Radius"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:51, ../includes/plugins/edd/class-edd-wp-customizer.php:242, ../includes/plugins/rcp/class-rcp-tab.php:51, ../includes/plugins/rcp/class-rcp-wp-customizer.php:242, ../includes/plugins/woocommerce/class-woocommerce-tab.php:52, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:242
+msgid "Table Padding (em)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:53, ../includes/plugins/edd/class-edd-wp-customizer.php:316, ../includes/plugins/rcp/class-rcp-tab.php:53, ../includes/plugins/rcp/class-rcp-wp-customizer.php:316, ../includes/plugins/woocommerce/class-woocommerce-tab.php:54, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:337
+msgid "Header Background Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:54, ../includes/plugins/edd/class-edd-wp-customizer.php:332, ../includes/plugins/rcp/class-rcp-tab.php:54, ../includes/plugins/rcp/class-rcp-wp-customizer.php:332, ../includes/plugins/woocommerce/class-woocommerce-tab.php:55, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:353
+msgid "Product Background Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:56, ../includes/plugins/rcp/class-rcp-tab.php:56, ../includes/plugins/woocommerce/class-woocommerce-tab.php:57
+msgid "Products Table Border Size (px)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:57, ../includes/plugins/rcp/class-rcp-tab.php:57, ../includes/plugins/woocommerce/class-woocommerce-tab.php:58
+msgid "Products Table Border Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:61, ../includes/plugins/rcp/class-rcp-tab.php:61, ../includes/plugins/woocommerce/class-woocommerce-tab.php:64
+msgid "Products Table Labels Font Size (em)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:62, ../includes/plugins/rcp/class-rcp-tab.php:62, ../includes/plugins/woocommerce/class-woocommerce-tab.php:65
+msgid "Products Table Labels Font Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:65, ../includes/plugins/rcp/class-rcp-tab.php:65, ../includes/plugins/woocommerce/class-woocommerce-tab.php:68
+msgid "Products Table Texts Font Size (em)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:66, ../includes/plugins/rcp/class-rcp-tab.php:66, ../includes/plugins/woocommerce/class-woocommerce-tab.php:69
+msgid "Products Table Texts Font Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:70, ../includes/plugins/edd/class-edd-wp-customizer.php:423, ../includes/plugins/rcp/class-rcp-tab.php:70, ../includes/plugins/rcp/class-rcp-wp-customizer.php:423, ../includes/plugins/woocommerce/class-woocommerce-tab.php:73, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:444
+msgid "Form Input Background Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:71, ../includes/plugins/edd/class-edd-wp-customizer.php:391, ../includes/plugins/rcp/class-rcp-tab.php:71, ../includes/plugins/rcp/class-rcp-wp-customizer.php:391, ../includes/plugins/woocommerce/class-woocommerce-tab.php:74, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:412
+msgid "Form Input Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:72, ../includes/plugins/edd/class-edd-wp-customizer.php:407, ../includes/plugins/rcp/class-rcp-tab.php:72, ../includes/plugins/rcp/class-rcp-wp-customizer.php:407, ../includes/plugins/woocommerce/class-woocommerce-tab.php:75, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:428
+msgid "Form Input Placeholder Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:74, ../includes/plugins/edd/class-edd-wp-customizer.php:439, ../includes/plugins/rcp/class-rcp-tab.php:74, ../includes/plugins/rcp/class-rcp-wp-customizer.php:439, ../includes/plugins/woocommerce/class-woocommerce-tab.php:77, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:460
+msgid "Form Input Border Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:75, ../includes/plugins/edd/class-edd-wp-customizer.php:476, ../includes/plugins/rcp/class-rcp-tab.php:75, ../includes/plugins/rcp/class-rcp-wp-customizer.php:476, ../includes/plugins/woocommerce/class-woocommerce-tab.php:78, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:497
+msgid "Form Input Border Size"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:77, ../includes/plugins/edd/class-edd-wp-customizer.php:455, ../includes/plugins/rcp/class-rcp-tab.php:77, ../includes/plugins/rcp/class-rcp-wp-customizer.php:455, ../includes/plugins/woocommerce/class-woocommerce-tab.php:80, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:476
+msgid "Form Input Padding (em)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:78, ../includes/plugins/edd/class-edd-wp-customizer.php:497, ../includes/plugins/rcp/class-rcp-tab.php:78, ../includes/plugins/rcp/class-rcp-wp-customizer.php:497, ../includes/plugins/woocommerce/class-woocommerce-tab.php:81, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:518
+msgid "Form Input Border Radius"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:82, ../includes/plugins/woocommerce/class-woocommerce-tab.php:85
+msgid "Form Labels Font Size (px)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:83, ../includes/plugins/rcp/class-rcp-tab.php:82, ../includes/plugins/woocommerce/class-woocommerce-tab.php:86
+msgid "Form Title Font Size (px)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:85, ../includes/plugins/woocommerce/class-woocommerce-tab.php:88
+msgid "Form Labels Font Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:86, ../includes/plugins/edd/class-edd-wp-customizer.php:375, ../includes/plugins/rcp/class-rcp-tab.php:83, ../includes/plugins/rcp/class-rcp-wp-customizer.php:375, ../includes/plugins/woocommerce/class-woocommerce-tab.php:89, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:396
+msgid "Form Title Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:91, ../includes/plugins/edd/class-edd-wp-customizer.php:607, ../includes/plugins/rcp/class-rcp-tab.php:88, ../includes/plugins/rcp/class-rcp-wp-customizer.php:570, ../includes/plugins/woocommerce/class-woocommerce-tab.php:159, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1281
+msgid "Error Background Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:92, ../includes/plugins/edd/class-edd-wp-customizer.php:623, ../includes/plugins/rcp/class-rcp-tab.php:89, ../includes/plugins/rcp/class-rcp-wp-customizer.php:586, ../includes/plugins/woocommerce/class-woocommerce-tab.php:160, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1297
+msgid "Error Text Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:93, ../includes/plugins/edd/class-edd-wp-customizer.php:639, ../includes/plugins/rcp/class-rcp-tab.php:90, ../includes/plugins/rcp/class-rcp-wp-customizer.php:602, ../includes/plugins/woocommerce/class-woocommerce-tab.php:162, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1313
+msgid "Error Border Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:96, ../includes/plugins/edd/class-edd-wp-customizer.php:655, ../includes/plugins/rcp/class-rcp-tab.php:93, ../includes/plugins/rcp/class-rcp-wp-customizer.php:618
+msgid "Success Background Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:97, ../includes/plugins/edd/class-edd-wp-customizer.php:671, ../includes/plugins/rcp/class-rcp-tab.php:94, ../includes/plugins/rcp/class-rcp-wp-customizer.php:634
+msgid "Success Text Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:98, ../includes/plugins/edd/class-edd-wp-customizer.php:687, ../includes/plugins/rcp/class-rcp-tab.php:95, ../includes/plugins/rcp/class-rcp-wp-customizer.php:650
+msgid "Success Border Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:101, ../includes/plugins/edd/class-edd-wp-customizer.php:703, ../includes/plugins/woocommerce/class-woocommerce-tab.php:150, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1212
+msgid "Info Background Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:102, ../includes/plugins/edd/class-edd-wp-customizer.php:719, ../includes/plugins/woocommerce/class-woocommerce-tab.php:151, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1228
+msgid "Info Text Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:103, ../includes/plugins/edd/class-edd-wp-customizer.php:735, ../includes/plugins/woocommerce/class-woocommerce-tab.php:153, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1244
+msgid "Info Border Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:106, ../includes/plugins/edd/class-edd-wp-customizer.php:751
+msgid "Warning Background Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:107, ../includes/plugins/edd/class-edd-wp-customizer.php:767
+msgid "Warning Text Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:108, ../includes/plugins/edd/class-edd-wp-customizer.php:783
+msgid "Warning Border Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:109, ../includes/plugins/rcp/class-rcp-tab.php:96
+msgid "Border Size (px)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-tab.php:118
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:25
+msgid "Udesly Easy Digital Downloads"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:30, ../includes/plugins/rcp/class-rcp-wp-customizer.php:30
+msgid "Udesly EDD Buttons"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:47, ../includes/plugins/rcp/class-rcp-wp-customizer.php:47, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:47
+msgid "Button Font Size (em)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:68, ../includes/plugins/rcp/class-rcp-wp-customizer.php:68, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:68
+msgid "Button Font Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:84, ../includes/plugins/rcp/class-rcp-wp-customizer.php:84, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:84
+msgid "Button Font Color Hover"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:100, ../includes/plugins/rcp/class-rcp-wp-customizer.php:100, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:100
+msgid "Button Background Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:116, ../includes/plugins/rcp/class-rcp-wp-customizer.php:116, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:116
+msgid "Button Background Color Hover"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:132, ../includes/plugins/rcp/class-rcp-wp-customizer.php:132, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:132
+msgid "Button Border Size"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:153, ../includes/plugins/rcp/class-rcp-wp-customizer.php:153, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:153
+msgid "Button Border Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:169, ../includes/plugins/rcp/class-rcp-wp-customizer.php:169, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:169
+msgid "Button Border Radius"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:184, ../includes/plugins/rcp/class-rcp-wp-customizer.php:184
+msgid "Udesly EDD Table"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:200, ../includes/plugins/edd/class-edd-wp-customizer.php:518, ../includes/plugins/rcp/class-rcp-wp-customizer.php:200, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:200, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:539
+msgid "Labels Font Size"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:221, ../includes/plugins/rcp/class-rcp-wp-customizer.php:221, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:221
+msgid "Texts Font Size"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:263, ../includes/plugins/rcp/class-rcp-wp-customizer.php:263, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:263
+msgid "Table Border Size (px)"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:284, ../includes/plugins/edd/class-edd-wp-customizer.php:560, ../includes/plugins/rcp/class-rcp-wp-customizer.php:284, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:305, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:581
+msgid "Labels Font Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:300, ../includes/plugins/rcp/class-rcp-wp-customizer.php:300, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:321
+msgid "Texts Font Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:348, ../includes/plugins/rcp/class-rcp-wp-customizer.php:348, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:369
+msgid "Table Border Color"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:359, ../includes/plugins/rcp/class-rcp-wp-customizer.php:359
+msgid "Udesly EDD Form"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:539, ../includes/plugins/rcp/class-rcp-wp-customizer.php:518, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:560
+msgid "Labels Title Size"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:570, ../includes/plugins/rcp/class-rcp-wp-customizer.php:533
+msgid "Udesly EDD Notifications"
+msgstr ""
+
+#: ../includes/plugins/edd/class-edd-wp-customizer.php:586, ../includes/plugins/rcp/class-rcp-wp-customizer.php:549, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1329
+msgid "Error Border Size"
+msgstr ""
+
+#: ../includes/plugins/rcp/class-rcp-tab.php:105
+msgid "Restrict Content Pro"
+msgstr ""
+
+#: ../includes/plugins/rcp/class-rcp-wp-customizer.php:25
+msgid "Udesly Restrict Content Pro"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:60
+msgid "Products Table Rounded Corners"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:92, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:597
+msgid "Select2 height (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:93, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:618
+msgid "Select2 padding (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:96, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:639
+msgid "Checkout Payment Background Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:97, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:655
+msgid "Checkout Payment Text Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:100
+msgid "Coupon Code Input Width (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:104, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:902
+msgid "Product Button Font Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:105, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:886
+msgid "Product Button Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:107, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:918
+msgid "Product Button Color Hover"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:108, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:950
+msgid "Product Input Background Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:110, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:966
+msgid "Product Input Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:111, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:934
+msgid "Product Label Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:113, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:702
+msgid "Product Input Padding (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:114, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:723
+msgid "Product Label Input Font Size (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:116, ../includes/plugins/woocommerce/class-woocommerce-tab.php:120, ../includes/plugins/woocommerce/class-woocommerce-tab.php:121, ../includes/plugins/woocommerce/class-woocommerce-tab.php:122, ../includes/plugins/woocommerce/class-woocommerce-tab.php:123
+msgid "Product Button Padding (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:117, ../includes/plugins/woocommerce/class-woocommerce-tab.php:119
+msgid "Product Button Margin (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:125, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:765
+msgid "Product Button Border Radius"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:126, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:744
+msgid "Product Input Border Radius"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:130, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:828
+msgid "Products Tab Table Border Size (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:131, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:849
+msgid "Products Tab Table Padding (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:133, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:870
+msgid "Product Tab Table Border Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:134
+msgid "Product Stars Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:138, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1113
+msgid "Price Filter Slider Background Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:139, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1129
+msgid "Price Filter Range Slider Background Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:140, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1145
+msgid "Price Filter Slider Handle Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:141
+msgid "Price Range Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:145, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1187
+msgid "General Font"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:145, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1188
+msgid "Font used in the webflow missing elements like table, etc."
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:154
+msgid "Info Border Size (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:163
+msgid "Error Border Size (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:168, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1350
+msgid "Message Background Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:169, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1366
+msgid "Message Text Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:171, ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1382
+msgid "Message Border Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:172
+msgid "Message Border Size (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-tab.php:183
+msgid "WooCommerce"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:25
+msgid "Udesly WooCommerce"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:30
+msgid "Udesly Woocommerce Buttons"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:184
+msgid "Udesly Woocommerce Table"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:284
+msgid "Table Border Radius"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:380
+msgid "Udesly Woocommerce Form"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:671
+msgid "Coupon Code Width (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:686
+msgid "Udesly Woocommerce Product"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:786
+msgid "Product Button Padding"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:807
+msgid "Product Button Margin"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:982
+msgid "Product Reviews Stars Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:998
+msgid "Products Variations Select Field Height (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1019
+msgid "Products Variations Reset Button Left Margin (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1040
+msgid "Products Variations Labels Right Margin (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1061
+msgid "Products Variations Add To Cart Button Margin Top (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1082
+msgid "Products Variations Add To Cart Button Margin Left (px)"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1097
+msgid "Udesly Woocommerce Sidebar"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1161
+msgid "Price Filter Range Color"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1172
+msgid "Udesly Woocommerce Font"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1196
+msgid "Udesly Woocommerce Notifications"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1260
+msgid "Info Border Size"
+msgstr ""
+
+#: ../includes/plugins/woocommerce/class-woocommerce-wp-customizer.php:1398
+msgid "Message Border Size"
+msgstr ""
